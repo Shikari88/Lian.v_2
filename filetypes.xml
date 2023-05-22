@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="READMI" type="PLAIN_TEXT" />
+      <mapping pattern="gilignore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
